@@ -7,4 +7,4 @@ Java Script
 Gimp( Graphical Image Manipulation Software/Photoshop)
 
 Collaborators Sought
-I am looking for collaborators to work with me on this wonderful project
+I am looking for collaborators to work with me on this wonderful project 
